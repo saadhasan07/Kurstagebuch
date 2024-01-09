@@ -1,0 +1,35 @@
+body {
+    font-family: 'Calibri', sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+#devops-intro {
+    background-color: #e7f4ff; /* light blue */
+}
+
+#cloud-benefits {
+    background-color: #e2f7e2; /* light green */
+}
+
+h1, h2 {
+    color: #005f69; /* dark blue */
+}
+
+p {
+    color: #4CAF50; /* green */
+}
